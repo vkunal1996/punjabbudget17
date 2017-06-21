@@ -1,0 +1,71 @@
+body
+{
+    background-color:white;
+}
+#mainheader
+{
+    font-family: fantasy;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    color: cadetblue;
+    background-color: white;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+#maincontent
+{
+    font-size: 25px;
+    text-align: justify;
+    font-family: cursive;
+    color:brown;
+}
+#mainimage
+{
+    width:400px;
+    height:350px;
+    border-image-source: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+#keypoints
+{
+    color:blueviolet;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    font-size:40px;
+}
+#oddsubheadings
+{
+    text-align: left;
+    font-family: cursive;
+    font-size: 30px;
+    color:black;
+}
+#evensubheadings
+{
+    text-align: right;
+    font-family: cursive;
+    font-size: 30px;
+    color:black;
+}
+
+#oddcontent
+{
+    font-size:25px;
+    font-family: sans-serif;
+    text-align: justify;
+    color:darkblue;
+}
+#evencontent
+{
+    font-size:25px;
+    font-family: sans-serif;
+    text-align: justify;
+    color: crimson;
+}
